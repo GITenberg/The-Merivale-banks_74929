@@ -1,0 +1,47 @@
+_repo: The-Merivale-banks_74929
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grant, Gordon
+    alias: Grant, Gordon H.
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '8049'
+    url: http://www.gutenberg.org/2009/agents/8049
+    wikipedia: https://en.wikipedia.org/wiki/Gordon_Grant_(artist)
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    aliases:
+    - Holmes, Mary Jane (Hawes)
+    - Holmes, Mary J.
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2024-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74929'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008962003
+pgterms:marc905: 20210117124755holmes
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bG. W. Dillingham company, $c1900, copyright 1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Singers -- Fiction'
+- !lcsh 'Banks and banking -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Merivale banks
+url: http://www.gutenberg.org/ebooks/74929
